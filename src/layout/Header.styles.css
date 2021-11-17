@@ -10,6 +10,7 @@
 
 .header-container>h2{
     color: #fff;
+    background-color: #191A19;
     
   
 }
@@ -46,6 +47,7 @@ i{
     display: flex;
     justify-content: space-evenly;
     padding: 0;
+    background-color: #191A19;
 }
 
 .fa-home, .fa-bars, .round{
@@ -60,10 +62,11 @@ i{
 
 .menuNav>ul>li{
     margin-top: 0.5rem;
+    background-color: #191A19;
 }
 
 .menuNav>ul>li{
-    color: #4E9F3D;
+    color: yellow;
     font-weight: bolder;
     margin-left: 0.3rem;
     cursor: pointer;

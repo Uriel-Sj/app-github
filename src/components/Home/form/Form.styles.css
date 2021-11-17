@@ -33,7 +33,7 @@ form.form-container button {
     color: white;
     font-size: 17px;
     border: 1px solid grey;
-    border: none; /* Prevent double borders */
+    border: none; 
     cursor: pointer;
 }
 

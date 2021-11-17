@@ -27,7 +27,7 @@ const Home = () => {
 
 
     return (
-        <div>
+        <div className="homecolor">
             <Header />
             <Form 
             handlerValue={handlerValue}
