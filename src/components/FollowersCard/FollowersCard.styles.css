@@ -24,6 +24,11 @@
     width: 80px;
 }
 
+.vermas:hover {
+
+    background-color: yellow;
+}
+
 .followers-card>h4{
     color: white;
     font-size: 1rem;
